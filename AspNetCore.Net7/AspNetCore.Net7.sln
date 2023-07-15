@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Net7", "AspNetCore.Net7.csproj", "{4E527A93-A561-4791-8C20-7425E484AF3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E527A93-A561-4791-8C20-7425E484AF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E527A93-A561-4791-8C20-7425E484AF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E527A93-A561-4791-8C20-7425E484AF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E527A93-A561-4791-8C20-7425E484AF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
